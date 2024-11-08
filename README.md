@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vky342.
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning Modern Android Development using Kotlin. 
-- 🔎 I’m looking for collaborators on my ongoing opensource project OpenERP.
-- 💞 I am available for collaborations on Android Projects.
+- 🌱 I’m currently fastapi and overall backend development. 
+- 💞 I am available for collaborations on Projects.
 - 📧 How to reach me - email -> kunalsahu071@gmail.com
 
 <!---
