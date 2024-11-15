@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vky342.
 - 👀 I’m interested in everything.
-- 🌱 I’m currently fastapi and overall backend development. 
+- 🌱 I’m currently learning fastapi and overall backend development. 
 - 💞 I am available for collaborations on Projects.
 - 📧 How to reach me - email -> kunalsahu071@gmail.com
 
