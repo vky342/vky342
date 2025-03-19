@@ -8,18 +8,18 @@
 
 ### Languages
 
-Python
-Kotlin
-GO
-C++
-Java
+#-Python
+#-Kotlin
+#-GO
+-C++
+-Java
 
 ### Technologies
 
-Go-Fiber
-FastApi
-Postman
-Networking
+-Go-Fiber
+-FastApi
+-Postman
+-Networking
 
 
 MongoDB
