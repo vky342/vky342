@@ -8,35 +8,37 @@
 
 ### Languages
 
-#-Python
-#-Kotlin
-#-GO
--C++
--Java
+  -Python
+  -Kotlin
+  -GO
+  -C++
+  -Java
 
 ### Technologies
 
--Go-Fiber
--FastApi
--Postman
--Networking
+  -Go-Fiber
+  -FastApi
+  -Postman
+  -Networking
 
 
-MongoDB
-DynamoDB
-PostgreSQl
-RoomDatabase
-SQL-lite
+  MongoDB
+  DynamoDB
+  PostgreSQl
+  RoomDatabase
+  SQL-lite
 
-Database Design
-Systems Design
 
-Android SDK
-Android Native development
-MVVM Architecture
-Jetpack Compose
-Hilt-Dagger 2 
-Retrofit
+  Database Design
+  Systems Design
+
+
+  Android SDK
+  Android Native development
+  MVVM Architecture
+  Jetpack Compose
+  Hilt-Dagger 2 
+  Retrofit
 
 
 ### ⚙️ &nbsp;GitHub Analytics
