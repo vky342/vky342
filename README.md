@@ -51,8 +51,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vky342">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vky342&theme=blueberry" alt="GitHub Streak Stats" />
-  </a>
-</p>
