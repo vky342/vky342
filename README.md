@@ -19,7 +19,7 @@
 - 🚀 Go-Fiber  
 - ⚡ FastAPI  
 - 📮 Postman  
-- 🌐 Networking  
+- 🌐 Networking HTTP, Websockets 
 
 ### 🗄️ Databases  
 - 🍃 MongoDB  
