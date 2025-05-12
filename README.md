@@ -4,20 +4,18 @@
   ✉️ You can reach me via email at <a href="mailto:kunalsahu071@gmail.com">kunalsahu071@gmail.com</a>
 </p>
 
----
-
-## 🛠 Tech Stack  
+---  
 
 ### 💻 Languages  
 - 🐍 Python  
 - ☕ Kotlin  
 - 🦫 Go  
-- 💠 C++  
-- 🎯 Java  
+- 💠 C++    
 
-### 🔧 Technologies & Frameworks  
+### 🔧 API and Backend development  
 - 🚀 Go-Fiber  
-- ⚡ FastAPI  
+- ⚡ FastAPI
+- 🌱 SpringBoot  
 - 📮 Postman  
 - 🌐 Networking HTTP, Websockets 
 
