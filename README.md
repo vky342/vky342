@@ -15,10 +15,10 @@
 ### 🔧 API and Backend development  
 - 🚀 Go-Fiber  
 - ⚡ FastAPI
-- 🌱 SpringBoot  
+- 🌱 SpringBoot
+- 🌈 KTOR 
 - 📮 Postman  
 - 🌐 Networking
-- 🌈 KTOR
 - 🔐 Outh2 and JWT
 
 ### 🗄️ Databases  
