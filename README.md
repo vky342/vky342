@@ -17,18 +17,26 @@
 - ⚡ FastAPI
 - 🌱 SpringBoot  
 - 📮 Postman  
-- 🌐 Networking HTTP, Websockets 
+- 🌐 Networking
+- 🌈 KTOR
+- 🔐 Outh2 and JWT
 
 ### 🗄️ Databases  
 - 🍃 MongoDB  
 - ⚡ DynamoDB  
 - 🐘 PostgreSQL  
 - 🏠 Room Database  
-- 🗂️ SQLite  
+- 🗂️ SQLite
+- Ⓜ️ MySQL 
 
 ### 🏗️ Architecture & Design  
 - 🏛️ Database Design  
-- 🏗️ Systems Design  
+- 🏗️ Systems Design
+- 💉 Dependency Injection
+- REST
+- Websockets
+- Clean Architecture
+- MVVM Acrhitecture
 
 ### 📱 Android Development  
 - 🤖 Android SDK  
@@ -38,7 +46,9 @@
 - 🏗️ Hilt-Dagger 2  
 - 🔌 Retrofit  
 
----
+### 🧠 Deep Learning & ML  
+- 🧠 Deep Learning  
+- 🔬 TensorFlow and Keras  
 
 ## ⚙️ GitHub Analytics  
 
