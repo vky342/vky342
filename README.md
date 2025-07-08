@@ -48,7 +48,8 @@
 
 ### 🧠 Deep Learning & ML  
 - 🧠 Deep Learning  
-- 🔬 TensorFlow and Keras  
+- 🔬 TensorFlow and Keras
+- 🔦 Pytorch 
 
 ## ⚙️ GitHub Analytics  
 
