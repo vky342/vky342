@@ -47,9 +47,11 @@
 - 🔌 Retrofit  
 
 ### 🧠 Deep Learning & ML  
-- 🧠 Deep Learning  
-- 🔬 TensorFlow and Keras
-- 🔦 Pytorch 
+- Deep Learning
+- PINNs and SINDy
+- Neural ODEs  
+- TensorFlow and Keras
+- Pytorch 
 
 ## ⚙️ GitHub Analytics  
 
