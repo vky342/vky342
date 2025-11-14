@@ -47,11 +47,17 @@
 - 🔌 Retrofit  
 
 ### 🧠 Deep Learning & ML  
+- TensorFlow and Keras
+- Pytorch
 - Deep Learning
 - PINNs and SINDy
 - Neural ODEs  
-- TensorFlow and Keras
-- Pytorch 
+- Modern Control Theory
+- Reinforcement Learning
+- Dynamic Mode Decomposition
+- Transformers
+- Diffusion
+- Flow Matching
 
 ## ⚙️ GitHub Analytics  
 
