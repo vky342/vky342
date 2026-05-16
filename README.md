@@ -47,15 +47,17 @@
 - 🔌 Retrofit  
 
 ### 🧠 Deep Learning & ML  
-- TensorFlow and Keras
 - Pytorch
 - Deep Learning
 - PINNs and SINDy
 - Neural ODEs  
 - Modern Control Theory
 - Reinforcement Learning
-- Dynamic Mode Decomposition
+- DMD
 - Transformers
+- JEPA
+- Reservoir Computing
+- World Models
 - Diffusion
 - Flow Matching
 
