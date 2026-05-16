@@ -20,6 +20,7 @@
 - 📮 Postman  
 - 🌐 Networking
 - 🔐 Outh2 and JWT
+- ⛓️ Blockchain and Web3
 
 ### 🗄️ Databases  
 - 🍃 MongoDB  
